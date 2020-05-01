@@ -13,7 +13,7 @@ def imagin():
     f = '%-*s%*s'
     print('\n\n')
     print('     	 ' + '=' * 60)
-    print('     	 ' + '|\t\t     BlackHole Security\t		    |')
+    print('     	 ' + '|' + ' '*58 + '|')
     print('     	 ' + '|  ' + '_' * 54 + '  |')
     print('     	 ' + '| |' + ' ' * 54 + '| |')
     print('     	 ' + f % (30, '| | Dibuat oleh', 30, '[M]iZun0 | |'))
